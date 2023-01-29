@@ -1,20 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Masahide Mori 👋
 
-<!--
-**MasahideMori-SimpleAppli/MasahideMori-SimpleAppli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## About Me
+- 🏢 &nbsp; Full stack engineer at [SimpleAppli](https://simpleappli.com/en/index_en.html).<br>
+- 🧪 &nbsp; I'm a Japanese scientific programmer.<br>
+- 🤖 &nbsp; I am also an AI engineer.<br>
+- 🎓 &nbsp; Biochemistry(science and engineering). Programming is self-taught.<br>
+- 🖥️ &nbsp; Language: Flutter(Dart), Python, Swift, Java, JavaScript.<br>
+- 😄 &nbsp; Pronouns: He/His.<br>
+- 📖 &nbsp; I am the author of the open source markup languages [SpBML](https://github.com/MasahideMori-SimpleAppli/simple_block_markup_language) and [SpWML](https://github.com/MasahideMori-SimpleAppli/simple_widget_markup).<br>
+- 🌱 &nbsp; I’m currently learning 3D and parallel computing. My 3D open source project is [simple_3d](https://github.com/MasahideMori-SimpleAppli/simple_3d).<br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasahideMori-SimpleAppli&show_icons=true&theme=cobalt" />
 </a>
