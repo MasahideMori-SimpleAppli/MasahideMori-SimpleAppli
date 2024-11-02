@@ -1,5 +1,6 @@
 ### Hi there, I'm Masahide Mori 👋
-Currently, I follow back if I am followed.<br>
+Recently, I've been getting followed by a lot of bots.<br>
+I follow back people who seem human, but I'm not very good at making decisions.<br>
 Please note that my following has no relation to my company or my friendships.
 
 ## About Me
