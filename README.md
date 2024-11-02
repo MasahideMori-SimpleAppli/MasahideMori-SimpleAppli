@@ -1,4 +1,6 @@
 ### Hi there, I'm Masahide Mori 👋
+Currently, I follow back if I am followed.<br>
+Please note that my following has no relation to my company or my friendships.
 
 ## About Me
 - 🏢 &nbsp; Full stack engineer at [SimpleAppli](https://simpleappli.com/en/index_en.html).<br>
