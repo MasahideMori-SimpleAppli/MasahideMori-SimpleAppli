@@ -6,7 +6,7 @@ Please note that my following has no relation to my company.
 ## About Me
 - 🏢 &nbsp; Full stack engineer at [SimpleAppli](https://simpleappli.com/en/index_en.html).<br>
 - 🧪 &nbsp; I'm a Japanese scientific programmer.<br>
-- 🤖 &nbsp; I am also an AI engineer.<br>
+- 🤖 &nbsp; I'm an AI engineer<br>
 - 🎓 &nbsp; Biochemistry(science and engineering). Programming is self-taught.<br>
 - 🖥️ &nbsp; Language: Flutter(Dart), Python, Swift, Java, JavaScript.<br>
 - 😄 &nbsp; Pronouns: He/His.<br>
